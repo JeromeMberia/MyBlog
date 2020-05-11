@@ -82,9 +82,7 @@ On linux:
 ##### To install all dependencies
 
    ```
-
    (virtual)$ pip install -r requirements.txt
-
    ```
 
 ## SetUp
