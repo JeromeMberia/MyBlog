@@ -113,6 +113,8 @@ To install all dependencies
 
 * I removed the comment funtion.
 * Disable on the request function for the quotes.
+* the navbar is transprent
+* Flask booststrap was disappealed
 
 ## Technologies Used
 
