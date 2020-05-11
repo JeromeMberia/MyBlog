@@ -79,12 +79,13 @@ On linux:
     $ . virtual/bin/activate
     ```
 
-To install all dependencies
+##### To install all dependencies
 
-    ```
+   ```
 
-    (virtual)$ pip install -r requirements.txt
-    ```
+   (virtual)$ pip install -r requirements.txt
+
+   ```
 
 ## SetUp
 
