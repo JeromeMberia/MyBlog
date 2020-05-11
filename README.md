@@ -8,7 +8,7 @@ Its an application that allows you as the user can comment and post in MyBlog.
 
 ## Description
 
-As user you
+This application allow you see post for other people and you can even post on this website only if it's not inappropriate. Before you do any post you first have to be signed in. Be aware when you sign you will be given your default image for your you can change it if you want. Know enjoy MyBlog.
 
 ## Installation
 
