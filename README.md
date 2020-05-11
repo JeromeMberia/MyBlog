@@ -109,7 +109,8 @@ To install all dependencies
 
 ## Known Bugs
 
-No Bug
+* I removed the comment funtion.
+* Disable on the request function for the quotes.
 
 ## Technologies Used
 
