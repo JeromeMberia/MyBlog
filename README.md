@@ -4,6 +4,8 @@ Its an application that allows you as the user can comment and post in MyBlog.
 
 #### By [Jerome Mberia](https://github.com/JeromeMberia)
 
+## [LINK TO SITE](https://my--blog2.herokuapp.com/)
+
 ## Description
 
 As user you
